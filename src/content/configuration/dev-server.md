@@ -381,7 +381,7 @@ webpack-dev-server --https --key /path/to/server.key --cert /path/to/server.crt 
 The filename that is considered the index file.
 
 ```javascript
-index: 'index.htm'
+index: 'index.html'
 ```
 
 
